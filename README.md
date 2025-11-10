@@ -28,11 +28,4 @@ Selain itu, tersedia beberapa route sederhana seperti:
 💻 Visual Studio Code (VS Code) – Editor untuk menulis dan menjalankan kode
 
 📦 pip (Python package manager) – Untuk menginstal dependensi
-🧑‍💻 Teknologi yang Digunakan
-Backend: Flask (Python)
 
-Database: PostgreSQL
-
-ORM: SQLAlchemy
-
-Tools: VS Code, pgAdmin 4
